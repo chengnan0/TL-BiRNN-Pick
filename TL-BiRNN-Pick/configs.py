@@ -33,7 +33,8 @@ nor_mod ='max'  # 'max';'std'
     训练参数
 """
 epochs = 50
-batch_size = 16
+batch_size = 32
 lr = 5e-4
+
 
 
