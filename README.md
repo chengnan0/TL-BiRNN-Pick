@@ -6,7 +6,7 @@
 
 * **Pre-training Support**: Includes scripts to utilize the Diting 2.0 dataset for initial model training.
 * **Transfer Learning Optimization**: Fine-tuned to accommodate the unique requirements and noise characteristics of mining seismic data.
-* **Ready-to-Use Model**: Provides a final transfer-learned model for high-precision P-wave and S-wave picking.
+* **Ready-to-Use Model**: Provides a final transfer-learned model for high-precision P-wave.
 
 ## Repository Structure
 
